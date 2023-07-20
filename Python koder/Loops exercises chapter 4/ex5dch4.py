@@ -15,4 +15,4 @@ for i in n:
      num=num+1
     else:
         print('Invalid input')
-    
+        
