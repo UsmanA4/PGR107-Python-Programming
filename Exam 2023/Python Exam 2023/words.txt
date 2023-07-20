@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Apr 23 09:28:04 2023
+
+@author: ...
+"""
+In this question, you will develop a “Word Guessing Game” using python. This game is about guessing letters 
+(A-Z) to form the word. The word is randomly chosen from a text file containing several words. Your program 
+should read from the text file and choose a word. If the player guesses the right letter that is within the word, 
+the letter appears at its correct positions. The user can get the chance to guess the correct word until ??? turns,
+then the game is over (??? is equal to the number of characters in the word).
+Note that the maximum number of wrong guesses is equal to the length of the word. For example, if the word 
+is 8 characters long, then the user can only have 8 wrong guesses. 
